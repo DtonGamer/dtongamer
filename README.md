@@ -1,4 +1,4 @@
-# TaeForm | AI-Native Builder
+# Walleeds | AI-Native Builder
 
 Building production systems with terminal-based AI coding agents.
 
